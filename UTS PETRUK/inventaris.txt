@@ -1,0 +1,9 @@
+B001;Pensil;2000;50
+B002;Buku Tulis;5000;3
+B003;Penggaris;3000;10
+B004;Pulpen;3500;4
+B005;Penghapus;1500;abc
+B006;Spidol;7000;-2
+B007;Tipe-X;4500;20
+B008;Rautan;2000;40
+B009;Kotak Pensil;15000;5

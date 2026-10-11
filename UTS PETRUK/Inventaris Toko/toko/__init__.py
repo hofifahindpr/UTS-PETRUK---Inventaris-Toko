@@ -1,0 +1,1 @@
+"""Package toko: program inventaris toko sederhana."""

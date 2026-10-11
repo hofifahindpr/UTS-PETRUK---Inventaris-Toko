@@ -1,0 +1,10 @@
+LAPORAN INVENTARIS TOKO
+------------------------------
+Jumlah jenis barang : 7
+Total nilai stok    : Rp404000
+Rata-rata harga     : Rp5000
+Barang termahal     : Kotak Pensil (Rp15000)
+Stok menipis (<= 5):
+  - Buku Tulis: sisa 3
+  - Pulpen: sisa 4
+  - Kotak Pensil: sisa 5
